@@ -11,7 +11,24 @@
     </a>
   </div>
 
-  #### 💻 Мои проекты:
+
+ #### 🔧 Инструменты, которыми я владею:
+ - Kotlin
+ - Android Studio, Intellij IDEA
+ - MVVM
+- Clean architecture
+- Dagger hilt
+- Kotlin Coroutines
+- Room
+- Retrofit
+- Glide, Picasso
+- Git
+- Yandex MapKit
+- LiveData
+- JUnit4
+
+
+#### 💻 Мои проекты:
 - [Погода в кармане.](https://github.com/JohnyRico2022/Weather-App-Diplom)  Дипломный проект курса в Нетологии.
 - [Метки на карте](https://github.com/JohnyRico2022/Map-Marks) Проект по работе с Яндекс Картами. Используется YandexMapKit, а так же Room для построения базы данных.
 - [Чаевые](https://github.com/JohnyRico2022/Tips), [Кости](https://github.com/JohnyRico2022/Dices) Мои первые приложения, которые я сделал на самых первых этапах обучения.
